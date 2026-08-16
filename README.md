@@ -3,7 +3,7 @@
 ⚡ **Engenheiro de Energia | Projetista Elétrico | Desenvolvedor em formação**
 🇧🇷 Brasil
 
-Sou **Engenheiro de Energia e projetista na área elétrica**, atualmente estudando **programação, desenvolvimento web e automação**.
+Sou **Engenheiro de Energia e projetista na área elétrica**, atualmente estudando **desenvolvimento de sistemas**.
 
 Tenho interesse em unir **Engenharia + Tecnologia + Programação**, explorando novas formas de aplicar software e automação em projetos e processos de engenharia.
 
