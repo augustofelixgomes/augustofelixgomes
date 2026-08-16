@@ -11,9 +11,9 @@ Tenho interesse em unir **Engenharia + Tecnologia + Programação**, explorando 
 
 ## 🌐 Onde me encontrar
 
-* 💼 LinkedIn
-* 🐙 GitHub
-* 📧 E-mail
+* 💼 [LinkedIn](https://www.linkedin.com/in/augusto-felix-gomes-780119428/)
+* 🐙 [GitHub](https://github.com/augustofelixgomese)
+* 📧 [E-mail](mailto:augustofelixogmesjunior@gmail.com)
 
 ---
 
@@ -54,9 +54,9 @@ Tenho interesse em unir **Engenharia + Tecnologia + Programação**, explorando 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustofelixgomese\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustofelixgomese\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
