@@ -21,11 +21,11 @@ Tenho interesse em unir **Engenharia + Tecnologia + Programação**, explorando 
 
 * ⚡ Projetos e aplicações na área de Energia e Elétrica
 * 📐 Projetos e desenvolvimento na área elétrica
-* 💻 Estudo e desenvolvimento de software
+* 💻 Desenvolvimento de sistemas e software
 * 🌐 Desenvolvimento Web
 * 🤖 Automação de processos
-* 📊 Exploração de dados aplicados à Engenharia
-* 🔧 Desenvolvimento de pequenos projetos e experimentos
+* 📊 Análise e exploração de dados aplicados à Engenharia
+* 🔧 Desenvolvimento de projetos e experimentos
 * 📚 Aprendizado contínuo em programação e tecnologia
 
 ---
@@ -38,11 +38,12 @@ Tenho interesse em unir **Engenharia + Tecnologia + Programação**, explorando 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Backend
+### Backend & Programming
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-> Atualmente estudando conceitos de Backend, APIs e desenvolvimento de aplicações.
+> Atualmente estudando desenvolvimento de sistemas, lógica de programação, Backend, APIs e desenvolvimento de aplicações.
 
 ### DevOps & Tools
 
@@ -52,11 +53,16 @@ Tenho interesse em unir **Engenharia + Tecnologia + Programação**, explorando 
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projetos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustofelixgomese\&show_icons=true\&theme=tokyonight\&hide_border=true)
+🔹 **Projetos de Engenharia**
+Aplicações, ferramentas e soluções voltadas para Engenharia de Energia e Engenharia Elétrica.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustofelixgomese\&layout=compact\&theme=tokyonight\&hide_border=true)
+🔹 **Desenvolvimento de Sistemas**
+Projetos desenvolvidos durante meus estudos de programação e desenvolvimento de software.
+
+🔹 **Automação**
+Soluções para automatizar cálculos, processos e atividades relacionadas à engenharia.
 
 ---
 
